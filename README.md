@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdityaDarke2
+- 👀 I’m interested in Web and App Dev
+- 🌱 I’m currently learning Game Dev
+- 📫 Mail me at adityadarke@gmail.com
